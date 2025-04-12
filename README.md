@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="image/banner.png" alt="Howdy! I'm Cyril Baah — DevOps Engineer" title="Howdy! I'm Cyril Baah — DevOps Engineer" style="max-width: 100%; height: auto;" />
+  <img src="image/banner.png" alt="Howdy! I'm Cyril Baah — DevOps Engineer" title="Howdy! I'm Cyril Baah — DevOps Engineer" width="300" />
 </p>
 
 <hr>
+
 
 
 <h5 align="center">
